@@ -1,5 +1,5 @@
 TARGET = SolARTestModuleOpenGLPointCloudDisplay
-VERSION=0.5.2
+VERSION=0.5.3
 
 CONFIG += c++1z
 CONFIG += console
